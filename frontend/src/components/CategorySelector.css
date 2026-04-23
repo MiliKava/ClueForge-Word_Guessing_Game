@@ -1,0 +1,123 @@
+.spin-wheel-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5vh;
+}
+
+.game-logo-small {
+  max-width: 200px;
+  margin-bottom: 1rem;
+  animation: pulseLogo 4s infinite alternate;
+  filter: drop-shadow(0 0 15px rgba(255, 255, 255, 0.4));
+}
+
+.wheel-wrapper {
+  position: relative;
+  width: 350px;
+  height: 350px;
+  margin: 2rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wheel-pointer {
+  position: absolute;
+  top: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 3rem;
+  color: var(--text-dark);
+  z-index: 10;
+  text-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.wheel {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  border: 8px solid var(--c-cream);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  position: relative;
+  transition: transform 5s cubic-bezier(0.2, 0.8, 0.1, 1);
+  overflow: hidden;
+}
+
+/* Add a center dot */
+.wheel::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 40px;
+  height: 40px;
+  background: var(--c-cream);
+  border-radius: 50%;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  z-index: 5;
+}
+
+.wheel-label-container {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 0;
+  height: 50%;
+  transform-origin: bottom center;
+  z-index: 2;
+}
+
+.wheel-label {
+  position: absolute;
+  top: 20px;
+  /* Distance from edge */
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 100px;
+}
+
+.wheel-icon {
+  font-size: 2.5rem;
+  margin-bottom: 5px;
+  filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.5));
+}
+
+.wheel-text {
+  font-weight: 800;
+  color: white;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);
+  font-size: 0.9rem;
+  line-height: 1.1;
+  text-transform: uppercase;
+}
+
+.spin-btn {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  padding: 15px 40px;
+}
+
+@media (max-width: 600px) {
+  .wheel-wrapper {
+    width: 280px;
+    height: 280px;
+  }
+
+  .wheel-icon {
+    font-size: 1.8rem;
+  }
+
+  .wheel-text {
+    font-size: 0.75rem;
+  }
+
+  .wheel-label {
+    top: 10px;
+  }
+}

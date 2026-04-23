@@ -1,0 +1,4770 @@
+[
+    {
+        "category": "animal",
+        "phrase": "Lion",
+        "hints": [
+            "The king of the jungle",
+            "Has a thick golden mane"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Tiger",
+        "hints": [
+            "Large wild cat with stripes",
+            "The national animal of India"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Elephant",
+        "hints": [
+            "Largest land mammal on earth",
+            "Known for a long flexible trunk"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Giraffe",
+        "hints": [
+            "Tallest animal in the world",
+            "Has a very long neck"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Zebra",
+        "hints": [
+            "Related to the horse family",
+            "Black and white striped body"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Kangaroo",
+        "hints": [
+            "Hopping animal from Australia",
+            "Carries young in a pouch"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Panda",
+        "hints": [
+            "Large black and white bear",
+            "Eats mostly green bamboo shoots"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Penguin",
+        "hints": [
+            "Flightless bird in cold climates",
+            "Waddles on ice and snow"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Dolphin",
+        "hints": [
+            "Highly intelligent marine mammal",
+            "Known for playful jumping leaps"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Cheetah",
+        "hints": [
+            "Fastest land animal alive",
+            "Spotted cat with tear marks"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Wolf",
+        "hints": [
+            "Wild ancestor of the dog",
+            "Known for howling at night"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Gorilla",
+        "hints": [
+            "Largest type of forest primate",
+            "Strong silverback leader in groups"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Hippopotamus",
+        "hints": [
+            "Large semi aquatic river mammal",
+            "Spends days in deep water"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Crocodile",
+        "hints": [
+            "Large predatory water reptile",
+            "Has very powerful snapping jaws"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Rhinoceros",
+        "hints": [
+            "Heavy mammal with thick skin",
+            "Has large horns on snout"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Monkey",
+        "hints": [
+            "Agile primate that loves climbing",
+            "Known for eating yellow fruit"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Bear",
+        "hints": [
+            "Large mammal with thick fur",
+            "Likes to hibernate in winter"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Rabbit",
+        "hints": [
+            "Small mammal with long ears",
+            "Loves eating orange root vegetables"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Deer",
+        "hints": [
+            "Graceful herbivore with hooves",
+            "Males have large branched antlers"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Fox",
+        "hints": [
+            "Clever and cunning wild animal",
+            "Has a bushy red tail"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Horse",
+        "hints": [
+            "Used for riding and racing",
+            "Gallops across large open fields"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Camel",
+        "hints": [
+            "The ship of the desert",
+            "Has large humps on back"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Leopard",
+        "hints": [
+            "Large spotted wild cat",
+            "Excellent at climbing tall trees"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Eagle",
+        "hints": [
+            "Bird of prey with vision",
+            "Builds nests on high cliffs"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Owl",
+        "hints": [
+            "Nocturnal bird of prey",
+            "Can rotate head significantly"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Shark",
+        "hints": [
+            "Predatory fish in the ocean",
+            "Has multiple rows of teeth"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Whale",
+        "hints": [
+            "Largest mammal in the sea",
+            "Breathes through a blowhole"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Snake",
+        "hints": [
+            "Legless slithering wild reptile",
+            "Some have very venomous fangs"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Frog",
+        "hints": [
+            "Amphibian that lives near water",
+            "Starts life as a tadpole"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Turtle",
+        "hints": [
+            "Slow moving shelled reptile",
+            "Can retract into its shell"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Goat",
+        "hints": [
+            "Domesticated animal with horns",
+            "Known for climbing rocky hills"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Sheep",
+        "hints": [
+            "Domesticated woolly farm animal",
+            "Provides warm wool for clothing"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Cow",
+        "hints": [
+            "Common large farm animal",
+            "Gives fresh milk to humans"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Pig",
+        "hints": [
+            "Farm animal with snout",
+            "Loves rolling in the mud"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Chicken",
+        "hints": [
+            "Common domestic farm bird",
+            "Lays white eggs for food"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Duck",
+        "hints": [
+            "Water bird with webbed feet",
+            "Makes a distinct quacking sound"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Swan",
+        "hints": [
+            "Large white water bird",
+            "Symbol of beauty and grace"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Peacock",
+        "hints": [
+            "National bird of India",
+            "Beautiful colorful fan like feathers"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Parrot",
+        "hints": [
+            "Colorful tropical forest bird",
+            "Can mimic human speech sounds"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Koala",
+        "hints": [
+            "Small Australian tree marsupial",
+            "Eats mostly eucalyptus leaves"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Sloth",
+        "hints": [
+            "Slowest mammal in the world",
+            "Lives upside down in trees"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Octopus",
+        "hints": [
+            "Sea creature with eight arms",
+            "Squirts dark ink to escape"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Crab",
+        "hints": [
+            "Crustacean with ten legs",
+            "Walks sideways on the beach"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Lobster",
+        "hints": [
+            "Large marine red crustacean",
+            "Has two large sharp claws"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Bee",
+        "hints": [
+            "Flying insect that makes food",
+            "Lives in a hive colony"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Ant",
+        "hints": [
+            "Small hardworking social insect",
+            "Lives in underground tunnel nests"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Butterfly",
+        "hints": [
+            "Insect with colorful wings",
+            "Transforms from a small caterpillar"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Spider",
+        "hints": [
+            "Creature with eight thin legs",
+            "Spins webs to catch prey"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Scorpion",
+        "hints": [
+            "Arachnid with a stinger",
+            "Has a curved tail segment"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Bat",
+        "hints": [
+            "Only mammal that flies",
+            "Uses sound to navigate dark"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Rat",
+        "hints": [
+            "Common small furry rodent",
+            "Has a long hairless tail"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Squirrel",
+        "hints": [
+            "Small rodent with bushy tail",
+            "Gathers nuts for the winter"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Otter",
+        "hints": [
+            "Playful aquatic river mammal",
+            "Floats on its back easily"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Seal",
+        "hints": [
+            "Semi aquatic marine mammal",
+            "Has flippers instead of feet"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Walrus",
+        "hints": [
+            "Large arctic marine mammal",
+            "Has long ivory tusks"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Platypus",
+        "hints": [
+            "Unique egg laying mammal",
+            "Has a bill like duck"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Ostrich",
+        "hints": [
+            "Largest bird in the world",
+            "Cannot fly but runs fast"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Flamingo",
+        "hints": [
+            "Tall pink colored wading bird",
+            "Stands on one long leg"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Vulture",
+        "hints": [
+            "Large scavenging bird species",
+            "Feeds on dead animal remains"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Falcon",
+        "hints": [
+            "Fast flying bird of prey",
+            "Used for hunting in desert"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Hyena",
+        "hints": [
+            "Scavenger animal found in Africa",
+            "Known for a laughing sound"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Baboon",
+        "hints": [
+            "Large ground dwelling monkey",
+            "Has a dog like snout"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Chimpanzee",
+        "hints": [
+            "Close relative to human species",
+            "Highly social forest primate"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Orangutan",
+        "hints": [
+            "Large red haired forest ape",
+            "Found in rainforests of Asia"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Lemur",
+        "hints": [
+            "Primate found in Madagascar",
+            "Has a long ringed tail"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Moose",
+        "hints": [
+            "Largest species of deer family",
+            "Has broad flat antlers"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Donkey",
+        "hints": [
+            "Domesticated beast of burden",
+            "Known for being quite stubborn"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Mule",
+        "hints": [
+            "Offspring of horse and donkey",
+            "Very strong worker on farms"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Buffalo",
+        "hints": [
+            "Large wild ox animal",
+            "Commonly found near water bodies"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Yak",
+        "hints": [
+            "Hairy bovine of Tibet",
+            "Lives in high cold mountains"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Llama",
+        "hints": [
+            "South American pack animal",
+            "Related to the camel family"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Alpaca",
+        "hints": [
+            "Animal kept for soft wool",
+            "Smaller than a regular llama"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Badger",
+        "hints": [
+            "Burrowing mammal with face stripes",
+            "Known for being very tough"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Beaver",
+        "hints": [
+            "Rodent that builds river dams",
+            "Has a flat paddle tail"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Hedgehog",
+        "hints": [
+            "Small spiny mammal species",
+            "Rolls into a prickly ball"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Porcupine",
+        "hints": [
+            "Rodent with many sharp quills",
+            "Quills used for defense"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Armadillo",
+        "hints": [
+            "Mammal with leathery armored shell",
+            "Found mostly in the Americas"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Mole",
+        "hints": [
+            "Small burrowing insectivore animal",
+            "Digs many tunnels underground"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Hamster",
+        "hints": [
+            "Small popular pet rodent",
+            "Stores food in its cheeks"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Guinea Pig",
+        "hints": [
+            "Small pet rodent species",
+            "Not actually from South America"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Mouse",
+        "hints": [
+            "Very small common rodent",
+            "Loves to eat yellow cheese"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Emu",
+        "hints": [
+            "Large flightless Australian bird",
+            "Second largest bird species"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Raven",
+        "hints": [
+            "Large black bird species",
+            "Known for very high intelligence"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Crow",
+        "hints": [
+            "Common clever black bird",
+            "Known for loud cawing sound"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Pigeon",
+        "hints": [
+            "Common gray city bird",
+            "Used to carry secret messages"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Seahorse",
+        "hints": [
+            "Small marine fish species",
+            "Head resembles a small stallion"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Starfish",
+        "hints": [
+            "Sea animal with five points",
+            "Can regenerate lost arms"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Jellyfish",
+        "hints": [
+            "Soft bodied sea creature",
+            "Has long stinging tentacles"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Squid",
+        "hints": [
+            "Fast moving sea cephalopod",
+            "Has ten arms in total"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Stingray",
+        "hints": [
+            "Flat cartilaginous sea fish",
+            "Has a sharp barbed tail"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Lynx",
+        "hints": [
+            "Wild cat with tufted ears",
+            "Found in cold northern forests"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Jaguar",
+        "hints": [
+            "Large spotted American cat",
+            "Powerful swimmer in tropical rivers"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Cougar",
+        "hints": [
+            "Large wild mountain cat",
+            "Also known as a puma"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Panther",
+        "hints": [
+            "Melanistic black wild cat",
+            "Often associated with the jungle"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Wolverine",
+        "hints": [
+            "Strong aggressive forest mammal",
+            "Resembles a small dark bear"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Coyote",
+        "hints": [
+            "North American wild dog",
+            "Howls in the dry desert"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Jackal",
+        "hints": [
+            "Wild dog found in Africa",
+            "Scavenges for food at night"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Dingo",
+        "hints": [
+            "Wild dog of Australia",
+            "Does not bark like dogs"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Husky",
+        "hints": [
+            "Sled pulling dog breed",
+            "Has thick fur blue eyes"
+        ]
+    },
+    {
+        "category": "animal",
+        "phrase": "Moose",
+        "hints": [
+            "Largest member of deer family",
+            "Palmate antlers on the head"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "India",
+        "hints": [
+            "Home of the Taj Mahal",
+            "Worlds largest democratic nation"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Afghanistan",
+        "hints": [
+            "Located in Central Asia",
+            "Capital city is Kabul"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Albania",
+        "hints": [
+            "Balkan Peninsula nation",
+            "Capital city is Tirana"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Algeria",
+        "hints": [
+            "Largest country in Africa",
+            "Capital city is Algiers"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Argentina",
+        "hints": [
+            "South American nation",
+            "Home of Lionel Messi"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Australia",
+        "hints": [
+            "An island continent",
+            "Home of the wild kangaroo"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Austria",
+        "hints": [
+            "Landlocked European country",
+            "Capital city is Vienna"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Bangladesh",
+        "hints": [
+            "Neighbor of India",
+            "Capital city is Dhaka"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Belgium",
+        "hints": [
+            "Known for fine chocolate",
+            "Capital city is Brussels"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Bhutan",
+        "hints": [
+            "Himalayan mountain kingdom",
+            "Known for gross national happiness"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Brazil",
+        "hints": [
+            "Largest country in South America",
+            "Famous for the Carnival festival"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Canada",
+        "hints": [
+            "Second largest country",
+            "Maple leaf on the flag"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Chile",
+        "hints": [
+            "Long and thin country",
+            "Capital city is Santiago"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "China",
+        "hints": [
+            "Most populous Asian nation",
+            "The Great Wall landmark"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Colombia",
+        "hints": [
+            "South American nation",
+            "Famous for high coffee production"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Croatia",
+        "hints": [
+            "European coastal nation",
+            "Capital city is Zagreb"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Cuba",
+        "hints": [
+            "Island in the Caribbean",
+            "Known for many classic cars"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Denmark",
+        "hints": [
+            "Scandinavian country",
+            "Capital city is Copenhagen"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Egypt",
+        "hints": [
+            "Land of the Pharaohs",
+            "Great Pyramids are located here"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Ethiopia",
+        "hints": [
+            "Located in East Africa",
+            "The origin of coffee bean"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Finland",
+        "hints": [
+            "The happiest country",
+            "Known as land of lakes"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "France",
+        "hints": [
+            "European nation of wine",
+            "The Eiffel Tower location"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Germany",
+        "hints": [
+            "Central European nation",
+            "Known for very fast cars"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Greece",
+        "hints": [
+            "The birthplace of democracy",
+            "Home of the ancient gods"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Hungary",
+        "hints": [
+            "Central European country",
+            "Capital city is Budapest"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Iceland",
+        "hints": [
+            "Land of fire and ice",
+            "Known for the northern lights"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Indonesia",
+        "hints": [
+            "Worlds largest archipelago",
+            "Capital city is Jakarta"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Iran",
+        "hints": [
+            "Ancient Persian empire",
+            "Capital city is Tehran"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Iraq",
+        "hints": [
+            "Middle Eastern nation",
+            "Capital city is Baghdad"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Ireland",
+        "hints": [
+            "The Emerald Isle",
+            "Capital city is Dublin"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Israel",
+        "hints": [
+            "Middle Eastern country",
+            "Capital city is Jerusalem"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Italy",
+        "hints": [
+            "Country shaped like boot",
+            "Home of pizza and pasta"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Jamaica",
+        "hints": [
+            "Caribbean island nation",
+            "Home of reggae music"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Japan",
+        "hints": [
+            "Land of rising sun",
+            "Known for sushi and technology"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Jordan",
+        "hints": [
+            "Middle Eastern nation",
+            "Home of the ancient Petra"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Kazakhstan",
+        "hints": [
+            "Largest landlocked country",
+            "Located in Central Asia"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Kenya",
+        "hints": [
+            "East African nation",
+            "Famous for wild wildlife safaris"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Kuwait",
+        "hints": [
+            "Oil rich gulf nation",
+            "Capital is Kuwait City"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Lebanon",
+        "hints": [
+            "Middle Eastern country",
+            "Capital city is Beirut"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Libya",
+        "hints": [
+            "North African nation",
+            "Capital city is Tripoli"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Malaysia",
+        "hints": [
+            "Southeast Asian nation",
+            "Petronas Towers location"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Maldives",
+        "hints": [
+            "Island nation in ocean",
+            "Famous for luxury beach resorts"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Mexico",
+        "hints": [
+            "North American nation",
+            "Known for tacos and sombreros"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Mongolia",
+        "hints": [
+            "Land of blue sky",
+            "Capital city is Ulaanbaatar"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Morocco",
+        "hints": [
+            "North African kingdom",
+            "Famous for the Marrakech markets"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Myanmar",
+        "hints": [
+            "Southeast Asian nation",
+            "Formerly known as Burma"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Namibia",
+        "hints": [
+            "Southern African nation",
+            "Home of the oldest desert"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Nepal",
+        "hints": [
+            "Himalayan mountain nation",
+            "Home of Mount Everest"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Netherlands",
+        "hints": [
+            "Known for colorful tulips",
+            "Capital city is Amsterdam"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "New Zealand",
+        "hints": [
+            "Island nation near Australia",
+            "Home of the small Kiwi"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Nigeria",
+        "hints": [
+            "Most populous African nation",
+            "Capital city is Abuja"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Norway",
+        "hints": [
+            "Scandinavian northern country",
+            "Known for deep dark fjords"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Oman",
+        "hints": [
+            "Middle Eastern nation",
+            "Capital city is Muscat"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Pakistan",
+        "hints": [
+            "South Asian nation",
+            "Capital city is Islamabad"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Panama",
+        "hints": [
+            "Central American nation",
+            "Famous for its large canal"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Paraguay",
+        "hints": [
+            "Landlocked South American nation",
+            "Capital city is Asuncion"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Peru",
+        "hints": [
+            "South American nation",
+            "Home of ancient Machu Picchu"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Philippines",
+        "hints": [
+            "Southeast Asian archipelago",
+            "Capital city is Manila"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Poland",
+        "hints": [
+            "Central European nation",
+            "Capital city is Warsaw"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Portugal",
+        "hints": [
+            "European coastal nation",
+            "Capital city is Lisbon"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Qatar",
+        "hints": [
+            "Wealthy gulf nation",
+            "Hosted the football world cup"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Romania",
+        "hints": [
+            "Eastern European nation",
+            "Home of the Dracula legend"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Russia",
+        "hints": [
+            "Largest country by area",
+            "Capital city is Moscow"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Saudi Arabia",
+        "hints": [
+            "Largest Middle East nation",
+            "Home of the holy Mecca"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Senegal",
+        "hints": [
+            "West African nation",
+            "Capital city is Dakar"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Serbia",
+        "hints": [
+            "Balkan landlocked nation",
+            "Capital city is Belgrade"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Singapore",
+        "hints": [
+            "Island city state nation",
+            "Known for very strict rules"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Slovakia",
+        "hints": [
+            "Central European country",
+            "Capital city is Bratislava"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "South Africa",
+        "hints": [
+            "The rainbow nation",
+            "Nelson Mandela home country"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "South Korea",
+        "hints": [
+            "East Asian nation",
+            "Capital city is Seoul"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Spain",
+        "hints": [
+            "European nation",
+            "Famous for bullfighting and dancing"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Sri Lanka",
+        "hints": [
+            "Island south of India",
+            "Formerly known as Ceylon"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Sudan",
+        "hints": [
+            "Northeast African nation",
+            "Capital city is Khartoum"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Sweden",
+        "hints": [
+            "Scandinavian northern nation",
+            "Home of IKEA and ABBA"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Switzerland",
+        "hints": [
+            "Neutral European nation",
+            "Known for watches and Alps"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Syria",
+        "hints": [
+            "Middle Eastern nation",
+            "Capital city is Damascus"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Taiwan",
+        "hints": [
+            "East Asian island",
+            "Capital city is Taipei"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Thailand",
+        "hints": [
+            "The land of smiles",
+            "Capital city is Bangkok"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Tunisia",
+        "hints": [
+            "North African country",
+            "Capital city is Tunis"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Turkey",
+        "hints": [
+            "Bridges Europe and Asia",
+            "Capital city is Ankara"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Ukraine",
+        "hints": [
+            "Eastern European nation",
+            "Capital city is Kyiv"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "United Arab Emirates",
+        "hints": [
+            "Middle Eastern federation",
+            "Home of the Burj Khalifa"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "United Kingdom",
+        "hints": [
+            "Island nation in Europe",
+            "Home of the Big Ben"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "United States",
+        "hints": [
+            "North American superpower nation",
+            "Home of the Hollywood"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Uruguay",
+        "hints": [
+            "South American nation",
+            "Capital city is Montevideo"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Uzbekistan",
+        "hints": [
+            "Central Asian country",
+            "Capital city is Tashkent"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Venezuela",
+        "hints": [
+            "South American nation",
+            "Has huge oil reserves"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Vietnam",
+        "hints": [
+            "Southeast Asian nation",
+            "Capital city is Hanoi"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Yemen",
+        "hints": [
+            "Middle Eastern nation",
+            "Capital city is Sanaa"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Zambia",
+        "hints": [
+            "Southern African nation",
+            "Home of the Victoria Falls"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Zimbabwe",
+        "hints": [
+            "Landlocked African nation",
+            "Capital city is Harare"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Luxembourg",
+        "hints": [
+            "Small wealthy European nation",
+            "Has same name capital"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Monaco",
+        "hints": [
+            "Small coastal European principality",
+            "Known for the grand prix"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Norway",
+        "hints": [
+            "Land of midnight sun",
+            "Capital city is Oslo"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Poland",
+        "hints": [
+            "European nation",
+            "Birthplace of Nicolaus Copernicus"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Peru",
+        "hints": [
+            "Andean mountain country",
+            "Capital city is Lima"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Greece",
+        "hints": [
+            "Aegean sea nation",
+            "Capital city is Athens"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Portugal",
+        "hints": [
+            "Iberian peninsula nation",
+            "Known for fine port wine"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Ecuador",
+        "hints": [
+            "Named after the equator line",
+            "Capital city is Quito"
+        ]
+    },
+    {
+        "category": "country",
+        "phrase": "Bolivia",
+        "hints": [
+            "Landlocked South American country",
+            "Capital city is Sucre"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Sholay",
+        "hints": [
+            "Famous dacoit Gabbar Singh",
+            "Two friends Jai and Veeru"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Lagaan",
+        "hints": [
+            "Cricket match against British",
+            "Set in Champaner village"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Dangal",
+        "hints": [
+            "Story of two wrestler sisters",
+            "Amir Khan plays the father"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Dilwale Dulhania Le Jayenge",
+        "hints": [
+            "Raj and Simran story",
+            "Iconic train ending scene"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "3 Idiots",
+        "hints": [
+            "Three engineering students story",
+            "All is well mantra"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "PK",
+        "hints": [
+            "An alien lands on Earth",
+            "Asks many strange questions"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Bajrangi Bhaijaan",
+        "hints": [
+            "Bringing girl back home",
+            "Salman Khan in lead role"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Queen",
+        "hints": [
+            "Solo honeymoon trip story",
+            "Kangana Ranaut in Paris"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Gully Boy",
+        "hints": [
+            "Rapper from Mumbai slums",
+            "Apna time aayega slogan"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Andhadhun",
+        "hints": [
+            "Blind piano player mystery",
+            "Ayushmann Khurrana lead role"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Padmaavat",
+        "hints": [
+            "Sanjay Leela Bhansali epic",
+            "Deepika Ranveer and Shahid starrer"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Zindagi Na Milegi Dobara",
+        "hints": [
+            "Three friends on Spain trip",
+            "Tomatina festival scene included"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Dil Chahta Hai",
+        "hints": [
+            "Three friends in urban life",
+            "Iconic Goa road trip"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Chak De India",
+        "hints": [
+            "Women hockey team story",
+            "Shah Rukh Khan as coach"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Mother India",
+        "hints": [
+            "Nargis in iconic classic role",
+            "Symbol of the Indian womanhood"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Mughal E Azam",
+        "hints": [
+            "Prince Salim and Anarkali love",
+            "Dilip Kumar and Madhubala epic"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Don",
+        "hints": [
+            "Catching him is impossible",
+            "Amitabh Bachchan iconic role"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Deewaar",
+        "hints": [
+            "Underworld versus honest cop",
+            "Mere paas maa hai"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Swades",
+        "hints": [
+            "NASA scientist returns home",
+            "A village lighting project goal"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Taare Zameen Par",
+        "hints": [
+            "Teacher helps a dyslexic boy",
+            "Every child is special"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Jab We Met",
+        "hints": [
+            "Geet and Aditya journey",
+            "Kareena Kapoor and Shahid Kapoor"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Kuch Kuch Hota Hai",
+        "hints": [
+            "Rahul Anjali and Tina triangle",
+            "Iconic college love story"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Kabhi Khushi Kabhie Gham",
+        "hints": [
+            "Rich family emotional drama",
+            "It is about loving parents"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Kal Ho Naa Ho",
+        "hints": [
+            "Love story in New York",
+            "Aman Preity and Rohit characters"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "My Name Is Khan",
+        "hints": [
+            "Man with Asperger syndrome",
+            "I am not a terrorist"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Rockstar",
+        "hints": [
+            "Musician Janardhan Jakhar journey",
+            "Ranbir Kapoor and Nargis Fakhri"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Tamasha",
+        "hints": [
+            "Finding the true inner self",
+            "Ved and Tara lead characters"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Haider",
+        "hints": [
+            "Hamlet adaptation in Kashmir",
+            "Shahid Kapoor and Tabu film"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Drishyam",
+        "hints": [
+            "Family hides a serious crime",
+            "October second trip plot"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Article 15",
+        "hints": [
+            "Caste based crime investigation",
+            "Ayushmann Khurrana as police officer"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Uri The Surgical Strike",
+        "hints": [
+            "Army mission against terror",
+            "How is the josh"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Stree",
+        "hints": [
+            "Horror comedy about a ghost",
+            "O stree kal aana"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Raazi",
+        "hints": [
+            "Indian spy in Pakistan",
+            "Alia Bhatt in lead role"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Kahaani",
+        "hints": [
+            "Pregnant woman seeking husband",
+            "Set in the Kolkata city"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Pink",
+        "hints": [
+            "Courtroom drama about consent",
+            "No means no message"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Gangs of Wasseypur",
+        "hints": [
+            "Coal mafia family feud",
+            "Anurag Kashyap crime epic"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Vicky Donor",
+        "hints": [
+            "Sperm donation comedy story",
+            "Ayushmann Khurrana first film"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Piku",
+        "hints": [
+            "Father daughter road trip",
+            "Amitabh Bachchan and Deepika Padukone"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "English Vinglish",
+        "hints": [
+            "Housewife learns English abroad",
+            "Sridevi in comeback film role"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Hum Aapke Hain Koun",
+        "hints": [
+            "Prem and Nisha family wedding",
+            "Big family musical hit"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Dil To Pagal Hai",
+        "hints": [
+            "Dance based love triangle",
+            "Shah Rukh Karisma and Madhuri"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Maine Pyar Kiya",
+        "hints": [
+            "Prem and Suman romance",
+            "Salman Khan in breakout role"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Baazigar",
+        "hints": [
+            "Man seeking revenge thriller",
+            "Shah Rukh Khan as antihero"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Darr",
+        "hints": [
+            "Obsessive lover stalking story",
+            "K k k k Kiran"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Gupt",
+        "hints": [
+            "Mystery thriller murder case",
+            "Bobby Deol Kajol and Manisha"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Race",
+        "hints": [
+            "Brother rivalry betting thriller",
+            "Saif Ali Khan in lead"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Dhoom",
+        "hints": [
+            "High speed bike robberies",
+            "John Abraham and Abhishek Bachchan"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Munna Bhai MBBS",
+        "hints": [
+            "Gangster goes to medical school",
+            "Sanjay Dutt and Arshad Warsi"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Lage Raho Munna Bhai",
+        "hints": [
+            "Gangster follows the Gandhi path",
+            "Gandhigiri term became popular"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "The Lunchbox",
+        "hints": [
+            "Wrong delivery connects strangers",
+            "Irrfan Khan and Nimrat Kaur"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Udta Punjab",
+        "hints": [
+            "Drug abuse problem story",
+            "Alia Shahid Diljit and Kareena"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Agneepath",
+        "hints": [
+            "Vijay Deenanath Chauhan revenge",
+            "Hrithik Roshan and Amitabh Bachchan"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Koi Mil Gaya",
+        "hints": [
+            "Boy befriends an alien",
+            "Hrithik Roshan first franchise"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Pathaan",
+        "hints": [
+            "Spy saves country mission",
+            "Shah Rukh Khan massive comeback"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Jawan",
+        "hints": [
+            "Father son vigilante story",
+            "Shah Rukh Khan multiple roles"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Animal",
+        "hints": [
+            "Toxic father son relationship",
+            "Ranbir Kapoor in action hit"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Sanju",
+        "hints": [
+            "Sanjay Dutt life story",
+            "Ranbir Kapoor as lead actor"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Bhaag Milkha Bhaag",
+        "hints": [
+            "Flying Sikh athlete biography",
+            "Farhan Akhtar in lead role"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Kedarnath",
+        "hints": [
+            "Love story during floods",
+            "Sushant Singh and Sara Ali"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Rock On",
+        "hints": [
+            "Reunion of a rock band",
+            "Farhan Akhtar and Arjun Rampal"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Band Baaja Baaraat",
+        "hints": [
+            "Two wedding planners romance",
+            "Ranveer Singh in debut film"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Bajirao Mastani",
+        "hints": [
+            "Maratha Peshwa love story",
+            "Ranveer Deepika and Priyanka starrer"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Singham",
+        "hints": [
+            "Honest cop versus politician",
+            "Ajay Devgn in action role"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Golmaal",
+        "hints": [
+            "Four friends in comedy series",
+            "Ajay Devgn and Rohit Shetty"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Tanhaji",
+        "hints": [
+            "Maratha warrior bravery story",
+            "Ajay Devgn and Saif Ali"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Bhool Bhulaiyaa",
+        "hints": [
+            "Psychological thriller haunted house",
+            "Akshay Kumar and Vidya Balan"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Hera Pheri",
+        "hints": [
+            "Three men and wrong number",
+            "Akshay Suniel and Paresh Rawal"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Welcome",
+        "hints": [
+            "Gangster wants his sister married",
+            "Nana Patekar and Anil Kapoor"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Partner",
+        "hints": [
+            "Love guru helps a client",
+            "Salman Khan and Govinda comedy"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Gajini",
+        "hints": [
+            "Short term memory revenge",
+            "Amir Khan with muscle look"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Andaz Apna Apna",
+        "hints": [
+            "Two rivals woo an heiress",
+            "Amir Khan and Salman Khan"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Range De Basanti",
+        "hints": [
+            "Modern youth as freedom fighters",
+            "Amir Khan in ensemble cast"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Devdas",
+        "hints": [
+            "Alcoholic lover tragic story",
+            "Shah Rukh Madhuri and Aishwarya"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Hum Dil De Chuke Sanam",
+        "hints": [
+            "Nandini choosing between lovers",
+            "Salman Aishwarya and Ajay Devgn"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Mohabbatein",
+        "hints": [
+            "Music teacher versus principal",
+            "Shah Rukh and Amitabh Bachchan"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Veer Zaara",
+        "hints": [
+            "Indian pilot and Pakistani girl",
+            "Shah Rukh and Preity Zinta"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Chennai Express",
+        "hints": [
+            "A man journey to South",
+            "Shah Rukh and Deepika comedy"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Aashiqui 2",
+        "hints": [
+            "Musical love story with tragedy",
+            "Aditya Roy Kapur and Shraddha"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Brahmastra",
+        "hints": [
+            "Fantasy film with ancient powers",
+            "Ranbir Kapoor and Alia Bhatt"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Rocky Aur Rani Kii Prem Kahaani",
+        "hints": [
+            "Loud Punjabi and cultured Bengali",
+            "Ranveer Singh and Alia Bhatt"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Tu Jhoothi Main Makkaar",
+        "hints": [
+            "Breakup consultant and smart girl",
+            "Ranbir Kapoor and Shraddha Kapoor"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Vikram Vedha",
+        "hints": [
+            "Cop and gangster face off",
+            "Hrithik Roshan and Saif Ali"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Kabir Singh",
+        "hints": [
+            "Aggressive surgeon in tragic love",
+            "Shahid Kapoor and Kiara Advani"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Badhaai Ho",
+        "hints": [
+            "Older parents expecting a baby",
+            "Ayushmann Khurrana family comedy"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Dream Girl",
+        "hints": [
+            "Man voices as female friend",
+            "Ayushmann Khurrana in funny role"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Stree 2",
+        "hints": [
+            "Ghost returns to Chanderi town",
+            "Rajkummar Rao and Shraddha Kapoor"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Sardar Udham",
+        "hints": [
+            "Revolutionary seeking revenge in London",
+            "Vicky Kaushal in lead role"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Shershaah",
+        "hints": [
+            "Biopic of Captain Vikram Batra",
+            "Sidharth Malhotra and Kiara Advani"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "The Kashmir Files",
+        "hints": [
+            "Historical drama about community exodus",
+            "Anupam Kher in key role"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Drishyam 2",
+        "hints": [
+            "Investigation reopens for Salgaonkar family",
+            "Ajay Devgn in lead role"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Bholaa",
+        "hints": [
+            "Prisoner helps police on mission",
+            "Ajay Devgn action packed film"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Dunki",
+        "hints": [
+            "Illegal immigrants seeking better life",
+            "Shah Rukh Khan and Taapsee"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Tiger 3",
+        "hints": [
+            "Spy on personal mission mission",
+            "Salman Khan and Katrina Kaif"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "War",
+        "hints": [
+            "Agent versus his former mentor",
+            "Hrithik Roshan and Tiger Shroff"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Chhichhore",
+        "hints": [
+            "College friends reunite for son",
+            "Sushant Singh Rajput ensemble film"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Piku",
+        "hints": [
+            "Father and daughter road trip",
+            "Deepika Padukone and Amitabh Bachchan"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "M S Dhoni The Untold Story",
+        "hints": [
+            "Biopic of famous cricket captain",
+            "Sushant Singh Rajput lead role"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Barfi",
+        "hints": [
+            "Deaf and mute man story",
+            "Ranbir Kapoor and Priyanka Chopra"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Gadar Ek Prem Katha",
+        "hints": [
+            "Tara Singh goes to Pakistan",
+            "Sunny Deol and Ameesha Patel"
+        ]
+    },
+    {
+        "category": "bollywood_movie",
+        "phrase": "Kick",
+        "hints": [
+            "Man seeking a big thrill",
+            "Salman Khan and Jacqueline Fernandez"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Chaiyya Chaiyya",
+        "hints": [
+            "Song shot on train roof",
+            "Shah Rukh Khan dancing energetically"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Tum Hi Ho",
+        "hints": [
+            "Romantic rain anthem song",
+            "Arijit Singh soulful male voice"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Gerua",
+        "hints": [
+            "Shah Rukh Kajol in Iceland",
+            "Colorful scenic romantic movie track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Kala Chashma",
+        "hints": [
+            "Energetic wedding party dance song",
+            "Katrina Kaif and Sidharth Malhotra"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Dilbar",
+        "hints": [
+            "Nora Fatehi item dance track",
+            "Remake of an old classic"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Ghoomar",
+        "hints": [
+            "Deepika Padukone royal folk dance",
+            "Padmaavat movie hit folk track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Bekhayali",
+        "hints": [
+            "Heartbreak song from Kabir movie",
+            "Shahid Kapoor intense emotional track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Ghungroo",
+        "hints": [
+            "Hrithik Roshan beach dance track",
+            "War movie popular party song"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Raataan Lambiyan",
+        "hints": [
+            "Sidharth Kiara romantic hit track",
+            "Shershaah movie famous love song"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Besharam Rang",
+        "hints": [
+            "Deepika Shah Rukh beach song",
+            "Pathaan movie first hit song"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Jhoome Jo Pathaan",
+        "hints": [
+            "Shah Rukh Khan dance track",
+            "Pathaan movie popular title track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Kesariya",
+        "hints": [
+            "Ranbir Alia yellow flower song",
+            "Brahmastra movie love anthem track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Apna Bana Le",
+        "hints": [
+            "Varun Kriti romantic movie song",
+            "Bhediya movie slow melodic track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Tujhe Kitna Chahne Lage",
+        "hints": [
+            "Kabir Singh love theme track",
+            "Arijit Singh hit romantic melody"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Agar Tum Saath Ho",
+        "hints": [
+            "Deepika Ranbir intense rain scene",
+            "Tamasha movie emotional sad song"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Matargashti",
+        "hints": [
+            "Ranbir Deepika fun travel track",
+            "Tamasha movie upbeat happy song"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Kun Faya Kun",
+        "hints": [
+            "Sufi song at a dargah",
+            "Rockstar movie spiritual music track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Kabira",
+        "hints": [
+            "Wedding theme farewell party song",
+            "Yeh Jawaani Hai Deewani track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Balam Pichkari",
+        "hints": [
+            "Holi festival dance party song",
+            "Ranbir Deepika fun movie track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Badtameez Dil",
+        "hints": [
+            "Ranbir Kapoor party dance track",
+            "Catchy upbeat modern club track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Desi Girl",
+        "hints": [
+            "Priyanka Chopra iconic dance song",
+            "Dostana movie popular dance track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Mauja Hi Mauja",
+        "hints": [
+            "Shahid Kareena upbeat dance song",
+            "Jab We Met movie finale"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Nagada Sang Dhol",
+        "hints": [
+            "Deepika Padukone garba dance track",
+            "Ram Leela movie hit track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Lungi Dance",
+        "hints": [
+            "Honey Singh tribute music song",
+            "Chennai Express movie hit track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Saturday Saturday",
+        "hints": [
+            "Varun Alia club party song",
+            "Humpty Sharma movie hit track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Chittiyaan Kalaiyaan",
+        "hints": [
+            "Jacqueline Fernandez dance music song",
+            "Roy movie upbeat popular track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Kar Gayi Chull",
+        "hints": [
+            "Sidharth Alia house party song",
+            "Kapoor and Sons movie track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "The Humma Song",
+        "hints": [
+            "Aditya Shraddha remix music track",
+            "Ok Jaanu movie popular song"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Dil Chori",
+        "hints": [
+            "Kartik Aaryan party dance track",
+            "Sonu Ke Titu remix song"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Bole Chudiyan",
+        "hints": [
+            "Large family dance movie song",
+            "Kabhi Khushi Kabhie Gham track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Suraj Hua Maddham",
+        "hints": [
+            "Shah Rukh Kajol desert romance",
+            "Kabhi Khushi Kabhie Gham track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Kal Ho Naa Ho",
+        "hints": [
+            "Shah Rukh New York city",
+            "Emotional title movie theme track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Maahi Ve",
+        "hints": [
+            "Engagement party dance music song",
+            "Kal Ho Naa Ho track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Ye Ishq Haye",
+        "hints": [
+            "Kareena Kapoor mountain hills song",
+            "Jab We Met movie track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Tum Se Hi",
+        "hints": [
+            "Shahid Kapoor rainy love song",
+            "Jab We Met romantic track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Pee Loon",
+        "hints": [
+            "Emraan Hashmi romantic music track",
+            "Once Upon A Time track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Tum Hi Ho Bandhu",
+        "hints": [
+            "Saif Deepika beach party song",
+            "Cocktail movie fun music track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Sheila Ki Jawani",
+        "hints": [
+            "Katrina Kaif item dance song",
+            "Tees Maar Khan movie track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Munni Badnaam Hui",
+        "hints": [
+            "Malaika Arora dance music song",
+            "Dabangg movie hit music track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Chammak Challo",
+        "hints": [
+            "Akon singing for Shah Rukh",
+            "Ra One movie dance track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Baby Doll",
+        "hints": [
+            "Sunny Leone dance music song",
+            "Ragini MMS two movie track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Dilliwaali Girlfriend",
+        "hints": [
+            "Ranbir Deepika wedding dance track",
+            "Upbeat party music hit track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Hookah Bar",
+        "hints": [
+            "Akshay Kumar dance party song",
+            "Khiladi 786 movie hit track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Dheere Dheere",
+        "hints": [
+            "Hrithik Sonam remake music song",
+            "Honey Singh romantic music track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Nashe Si Chadh Gayi",
+        "hints": [
+            "Ranveer Vaani dance music song",
+            "Befikre movie hit dance track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Jai Jai Shivshankar",
+        "hints": [
+            "Hrithik Tiger dance off track",
+            "War movie energetic dance track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Zaalima",
+        "hints": [
+            "Shah Rukh Mahira desert romance",
+            "Raees movie romantic music track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Zinda Banda",
+        "hints": [
+            "Shah Rukh Khan massy dance",
+            "Jawan movie energetic title track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Lutt Putt Gaya",
+        "hints": [
+            "Shah Rukh Khan fun track",
+            "Dunki movie happy dance song"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Satranga",
+        "hints": [
+            "Ranbir Kapoor emotional movie song",
+            "Animal movie melodic love track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "O Maahi",
+        "hints": [
+            "Shah Rukh Khan romantic melody",
+            "Dunki movie soft love song"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Sher Khul Gaye",
+        "hints": [
+            "Hrithik Deepika party dance track",
+            "Fighter movie upbeat club track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Heer Aasmani",
+        "hints": [
+            "Fighter pilot team anthem song",
+            "Fighter movie energetic group track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Akhiyaan Gulaab",
+        "hints": [
+            "Shahid Kriti romantic dance song",
+            "Teri Baaton Mein movie track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Laal Peeli Akhiyaan",
+        "hints": [
+            "Shahid Kapoor energetic folk dance",
+            "Teri Baaton Mein movie track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Nacho Nacho",
+        "hints": [
+            "Ram Charan Jr NTR dance",
+            "RRR movie Hindi version track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Manike",
+        "hints": [
+            "Nora Fatehi Sidharth dance song",
+            "Thank God movie hit track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Pasoori Nu",
+        "hints": [
+            "Kartik Kiara romantic remake track",
+            "Satyaprem Ki Katha movie song"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Aaj Ke Baad",
+        "hints": [
+            "Kartik Kiara wedding love song",
+            "Satyaprem Ki Katha movie track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "What Jhumka",
+        "hints": [
+            "Ranveer Alia dance remake track",
+            "Rocky Aur Rani movie song"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Ve Kamleya",
+        "hints": [
+            "Ranveer Alia romantic movie song",
+            "Rocky Aur Rani soft track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Tere Vaaste",
+        "hints": [
+            "Vicky Sara Ali fun dance",
+            "Zara Hatke Zara Bachke track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Phir Aur Kya Chahiye",
+        "hints": [
+            "Vicky Sara romantic hit melody",
+            "Zara Hatke Zara Bachke track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Main Nikla Gaddi Leke",
+        "hints": [
+            "Sunny Deol remake dance song",
+            "Gadar two movie hit track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Udd Jaa Kaale Kaava",
+        "hints": [
+            "Sunny Ameesha romantic remake song",
+            "Gadar two movie love track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Dil Jhoom",
+        "hints": [
+            "Ranveer Deepika romantic dance track",
+            "Gunday movie slow love song"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Galli Galli",
+        "hints": [
+            "Mouni Roy item dance track",
+            "KGF movie Hindi version song"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Oo Antava",
+        "hints": [
+            "Samantha Ruth Prabhu dance track",
+            "Pushpa movie Hindi version song"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Srivalli",
+        "hints": [
+            "Allu Arjun iconic walking song",
+            "Pushpa movie Hindi version track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Saami Saami",
+        "hints": [
+            "Rashmika Mandanna dance music song",
+            "Pushpa movie Hindi version track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Husn",
+        "hints": [
+            "Anuv Jain viral independent song",
+            "Popular slow romantic acoustic track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Maan Meri Jaan",
+        "hints": [
+            "King viral romantic pop song",
+            "Very popular modern love track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Guli Mata",
+        "hints": [
+            "Saad Lamjarred Shreya Ghoshal song",
+            "Arabic Hindi fusion viral track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Zihaal e Miskin",
+        "hints": [
+            "Vishal Mishra romantic remake track",
+            "Popular emotional hit music video"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Malang Sajna",
+        "hints": [
+            "Sachet Parampara romantic hit song",
+            "Popular wedding theme music video"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Khalasi",
+        "hints": [
+            "Aditya Gadhvi viral Coke Studio",
+            "Popular Gujarati folk fusion track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Pyaar Hota Kayi Baar Hai",
+        "hints": [
+            "Ranbir Kapoor breakup dance song",
+            "Tu Jhoothi Main Makkaar track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Tere Pyaar Mein",
+        "hints": [
+            "Ranbir Shraddha beach romance song",
+            "Tu Jhoothi Main Makkaar track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Show Me The Thumka",
+        "hints": [
+            "Ranbir Shraddha family dance song",
+            "Tu Jhoothi Main Makkaar track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Dil De Diya Hai",
+        "hints": [
+            "Masti movie sad romantic song",
+            "Classic emotional heartbreak movie track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Aaye Ho Meri Zindagi Mein",
+        "hints": [
+            "Raja Hindustani romantic music song",
+            "Classic nineties love movie track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Pardesi Pardesi",
+        "hints": [
+            "Amir Karisma sad music song",
+            "Raja Hindustani hit movie track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Dil To Pagal Hai",
+        "hints": [
+            "Shah Rukh Madhuri title song",
+            "Dance drama title movie track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Are Re Are",
+        "hints": [
+            "Shah Rukh Madhuri dance song",
+            "Dil To Pagal Hai track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Tujhe Dekha Toh Yeh Jaana",
+        "hints": [
+            "Shah Rukh Kajol mustard field",
+            "DDLJ movie most iconic song"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Mehndi Laga Ke Rakhna",
+        "hints": [
+            "Raj Simran wedding dance song",
+            "DDLJ movie popular wedding track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Ho Gaya Hai Tujhko Toh",
+        "hints": [
+            "Raj Simran realize love song",
+            "DDLJ movie romantic love track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Pehla Nasha",
+        "hints": [
+            "Amir Khan slow motion song",
+            "Jo Jeeta Wohi Sikandar track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Humma Humma",
+        "hints": [
+            "Bombay movie original dance song",
+            "Classic AR Rahman music track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Tu Hi Re",
+        "hints": [
+            "Bombay movie tragic love song",
+            "Classic soulful AR Rahman track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Kehna Hi Kya",
+        "hints": [
+            "Bombay movie wedding music song",
+            "Classic Chitra vocal music track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Masakali",
+        "hints": [
+            "Sonam Kapoor pigeon dance song",
+            "Delhi six movie hit track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Pappu Can Not Dance",
+        "hints": [
+            "Fun party dance music song",
+            "Jaane Tu Ya Jaane Na"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Kabhi Kabhi Aditi",
+        "hints": [
+            "Imran Genelia happy friend song",
+            "Jaane Tu Ya Jaane Na"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Nazar Laaye Na",
+        "hints": [
+            "Sonam Dhanush romantic movie song",
+            "Raanjhanaa movie melodic love track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Tum Tak",
+        "hints": [
+            "Sonam Dhanush spiritual love song",
+            "Raanjhanaa movie hit music track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Tu Hai Ki Nahi",
+        "hints": [
+            "Ranbir Kapoor bike riding song",
+            "Roy movie whistle music track"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Sooraj Dooba Hain",
+        "hints": [
+            "Ranbir Arjun party dance track",
+            "Roy movie energetic club song"
+        ]
+    },
+    {
+        "category": "bollywood_song",
+        "phrase": "Main Hoon Na",
+        "hints": [
+            "Shah Rukh Zayed title song",
+            "High school title movie track"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Biryani",
+        "hints": [
+            "Flavored rice with aromatic spices",
+            "Often served with cold raita"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Paneer Tikka",
+        "hints": [
+            "Grilled cottage cheese cubes snack",
+            "Popular vegetarian Indian starter dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Butter Chicken",
+        "hints": [
+            "Creamy tomato based chicken curry",
+            "Famous North Indian gravy dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Masala Dosa",
+        "hints": [
+            "Crispy rice crepe with potato",
+            "Served with sambar and chutney"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Chole Bhature",
+        "hints": [
+            "Spicy chickpeas with fried bread",
+            "Common Punjabi heavy breakfast meal"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Pav Bhaji",
+        "hints": [
+            "Mashed vegetables with buttered buns",
+            "Famous Mumbai spicy street food"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Vada Pav",
+        "hints": [
+            "Spicy potato patty in bun",
+            "Mumbai local burger style snack"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Pani Puri",
+        "hints": [
+            "Hollow crispy balls with water",
+            "Also known as golgappa snack"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Samosa",
+        "hints": [
+            "Fried triangular pastry snack item",
+            "Filled with spicy potato mixture"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Dhokla",
+        "hints": [
+            "Steamed savory yellow cake snack",
+            "Famous Gujarati healthy breakfast dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Rogan Josh",
+        "hints": [
+            "Slow cooked lamb spice curry",
+            "Traditional Kashmiri red meat dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Dal Makhani",
+        "hints": [
+            "Creamy black lentil gravy dish",
+            "Slow cooked overnight rich curry"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Tandoori Chicken",
+        "hints": [
+            "Roasted chicken in clay oven",
+            "Marinated in yogurt and spices"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Gulab Jamun",
+        "hints": [
+            "Sweet deep fried milk balls",
+            "Soaked in hot sugar syrup"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Jalebi",
+        "hints": [
+            "Spiral shaped fried sweet snack",
+            "Orange colored sugary syrup treat"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Idli",
+        "hints": [
+            "Steamed white rice cake dish",
+            "Healthy South Indian breakfast item"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Sambar",
+        "hints": [
+            "Lentil vegetable stew soup dish",
+            "Essential side for dosa items"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Medhu Vada",
+        "hints": [
+            "Fried savory lentil donut snack",
+            "Crispy South Indian breakfast item"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Kadhai Paneer",
+        "hints": [
+            "Cottage cheese with bell peppers",
+            "Cooked in a thick wok"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Palak Paneer",
+        "hints": [
+            "Cottage cheese in spinach gravy",
+            "Healthy green Indian main dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Aloo Gobi",
+        "hints": [
+            "Potato and cauliflower dry dish",
+            "Common Indian home vegetable curry"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Bhindi Masala",
+        "hints": [
+            "Spiced okra stir fry dish",
+            "Popular lady finger vegetable curry"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Baingan Bharta",
+        "hints": [
+            "Smoked mashed eggplant dish item",
+            "Roasted on an open flame"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Rajma Chawal",
+        "hints": [
+            "Red kidney beans with rice",
+            "Favorite North Indian comfort meal"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Malai Kofta",
+        "hints": [
+            "Fried cheese balls in cream",
+            "Potato and paneer dumpling curry"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Fish Curry",
+        "hints": [
+            "Seafood cooked in spicy gravy",
+            "Popular in Indian coastal regions"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Chicken Tikka",
+        "hints": [
+            "Boneless grilled chicken pieces snack",
+            "Orange colored smoky appetizer dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Seekh Kabab",
+        "hints": [
+            "Minced meat grilled on skewers",
+            "Cooked inside a hot tandoor"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Naan",
+        "hints": [
+            "Leavened oven baked flat bread",
+            "Best served with butter chicken"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Paratha",
+        "hints": [
+            "Layered flatbread on hot griddle",
+            "Often stuffed with spicy potato"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Puri",
+        "hints": [
+            "Deep fried puffed flat bread",
+            "Eaten with spicy potato curry"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Kachori",
+        "hints": [
+            "Fried pastry with spicy pulses",
+            "Crunchy afternoon tea time snack"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Pakora",
+        "hints": [
+            "Fried vegetable fritter snack item",
+            "Commonly eaten during rainy season"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Khaman",
+        "hints": [
+            "Soft yellow steamed gram cake",
+            "Spongy Gujarati savory snack dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Thepla",
+        "hints": [
+            "Spiced Gujarati flatbread food item",
+            "Made with fresh fenugreek leaves"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Handvo",
+        "hints": [
+            "Savory vegetable lentil cake dish",
+            "Baked Gujarati traditional snack item"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Khichdi",
+        "hints": [
+            "Rice and lentil porridge dish",
+            "Light and healthy Indian meal"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Pulao",
+        "hints": [
+            "One pot flavored rice dish",
+            "Cooked with vegetables and spices"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Haleem",
+        "hints": [
+            "Slow cooked meat lentil stew",
+            "Famous during the Ramadan month"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Nihari",
+        "hints": [
+            "Slow cooked beef mutton stew",
+            "Traditional breakfast dish in Delhi"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Chicken 65",
+        "hints": [
+            "Spicy deep fried chicken snack",
+            "South Indian famous appetizer dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Hyderabadi Biryani",
+        "hints": [
+            "Spicy layered meat rice dish",
+            "Famous specialty of Hyderabad city"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Misal Pav",
+        "hints": [
+            "Spicy sprout curry with bread",
+            "Popular Maharashtrian breakfast street food"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Puran Poli",
+        "hints": [
+            "Sweet stuffed flatbread dessert item",
+            "Made during the Holi festival"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Kanda Poha",
+        "hints": [
+            "Flattened rice with yellow onions",
+            "Light Maharashtrian snack breakfast dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Sabudana Khichdi",
+        "hints": [
+            "Tapioca pearls savory breakfast dish",
+            "Commonly eaten during religious fasts"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Modak",
+        "hints": [
+            "Sweet dumpling filled with coconut",
+            "Favorite sweet of Lord Ganesha"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Shrikhand",
+        "hints": [
+            "Sweet thickened yogurt dessert item",
+            "Flavored with cardamom and saffron"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Rasgulla",
+        "hints": [
+            "Spongy white sugary syrup balls",
+            "Famous Bengali traditional sweet dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Sandesh",
+        "hints": [
+            "Milk based Bengali dessert item",
+            "Often garnished with chopped nuts"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Mishti Doi",
+        "hints": [
+            "Sweet fermented yogurt dessert dish",
+            "Classic Bengali sweet dairy treat"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Lassi",
+        "hints": [
+            "Sweet yogurt based cold drink",
+            "Famous in the Punjab region"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Thandai",
+        "hints": [
+            "Cold milk drink with nuts",
+            "Served during the Holi festival"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Masala Chai",
+        "hints": [
+            "Spiced Indian milk tea drink",
+            "Brewed with ginger and cardamom"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Kulfi",
+        "hints": [
+            "Traditional Indian frozen ice cream",
+            "Dense and creamy cold dessert"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Rasmalai",
+        "hints": [
+            "Soft cheese patties in milk",
+            "Creamy Bengali style dessert dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Gajar Ka Halwa",
+        "hints": [
+            "Carrot based sweet milk pudding",
+            "Popular winter season dessert dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Moong Dal Halwa",
+        "hints": [
+            "Yellow lentil sweet dessert pudding",
+            "Rich winter festive sweet dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Phirni",
+        "hints": [
+            "Ground rice milk sweet pudding",
+            "Set inside small clay pots"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Kheer",
+        "hints": [
+            "Indian rice milk sweet pudding",
+            "Common festive Indian sweet dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Mysore Pak",
+        "hints": [
+            "Gram flour sweet fudge item",
+            "Famous South Indian dessert sweet"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Ghevar",
+        "hints": [
+            "Honeycomb shaped sweet festive cake",
+            "Rajasthani monsoon festival sweet dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Dal Baati Churma",
+        "hints": [
+            "Hard wheat balls with lentils",
+            "Traditional Rajasthani meal set menu"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Laal Maas",
+        "hints": [
+            "Spicy red mutton meat curry",
+            "Famous Rajasthani spicy meat dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Litti Chokha",
+        "hints": [
+            "Roasted wheat balls with mash",
+            "Famous traditional dish of Bihar"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Momos",
+        "hints": [
+            "Steamed dumplings with savory filling",
+            "Popular Northeast India street food"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Thukpa",
+        "hints": [
+            "Noodle soup with mixed vegetables",
+            "Tibetan influenced mountain region dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Appam",
+        "hints": [
+            "Fermented rice pancake breakfast dish",
+            "Eaten with hot vegetable stew"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Puttu",
+        "hints": [
+            "Steamed rice flour logs breakfast",
+            "Kerala dish eaten with chickpeas"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Avial",
+        "hints": [
+            "Mixed vegetable coconut curry dish",
+            "Traditional vegetable dish of Kerala"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Meen Curry",
+        "hints": [
+            "Spicy red fish gravy dish",
+            "Kerala style traditional seafood dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Banana Chips",
+        "hints": [
+            "Fried yellow fruit snack slices",
+            "Famous dry snack from Kerala"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Bisi Bele Bath",
+        "hints": [
+            "Hot spicy lentil rice dish",
+            "Specialty of the Karnataka state"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Rava Idli",
+        "hints": [
+            "Semolina steamed cake breakfast dish",
+            "Instant version of regular idli"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Chicken Chettinad",
+        "hints": [
+            "Very spicy aromatic chicken curry",
+            "Famous Tamil Nadu region dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Pongal",
+        "hints": [
+            "Rice and lentil savory dish",
+            "Harvest festival special meal dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Chicken Manchurian",
+        "hints": [
+            "Fried chicken in soy sauce",
+            "Popular Indo Chinese appetizer dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Hakka Noodles",
+        "hints": [
+            "Stir fried wheat noodles vegetables",
+            "Indian style street Chinese food"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Spring Roll",
+        "hints": [
+            "Fried vegetable stuffed roll snack",
+            "Crispy Indo Chinese appetizer dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Chili Chicken",
+        "hints": [
+            "Spicy chicken with bell peppers",
+            "Popular Indo Chinese gravy dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Manchow Soup",
+        "hints": [
+            "Spicy vegetable soup with noodles",
+            "Popular Indo Chinese starter soup"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Sheer Khurma",
+        "hints": [
+            "Vermicelli pudding with sweet dates",
+            "Eid festival special sweet dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Shahi Paneer",
+        "hints": [
+            "Royal cottage cheese tomato curry",
+            "Rich creamy tomato gravy dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Aloo Posto",
+        "hints": [
+            "Potatoes with poppy seeds paste",
+            "Classic Bengali home side dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Dahi Vada",
+        "hints": [
+            "Lentil balls in cold yogurt",
+            "Topped with sweet tamarind chutney"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Papdi Chaat",
+        "hints": [
+            "Crispy wafers with savory toppings",
+            "Popular tangy Indian street snack"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Aloo Tikki",
+        "hints": [
+            "Fried potato patty street snack",
+            "Served with spicy green chutneys"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Bhel Puri",
+        "hints": [
+            "Puffed rice savory street snack",
+            "Tangy Mumbai beach street food"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Sev Puri",
+        "hints": [
+            "Crispy disks with yellow sev",
+            "Popular Mumbai tangy chaat dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Dabeli",
+        "hints": [
+            "Spiced potato inside small bun",
+            "Kutch region famous street food"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Kathi Roll",
+        "hints": [
+            "Skewer roasted kebab paratha wrap",
+            "Famous Kolkata street food wrap"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Egg Roll",
+        "hints": [
+            "Fried paratha with cooked egg",
+            "Common Indian street food wrap"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Bread Pakora",
+        "hints": [
+            "Fried bread with potato filling",
+            "Popular Indian tea time snack"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Onion Uttapam",
+        "hints": [
+            "Thick rice pancake with onions",
+            "South Indian savory breakfast dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Rava Dosa",
+        "hints": [
+            "Thin crispy semolina crepe dish",
+            "Needs no rice fermentation time"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Puran Poli",
+        "hints": [
+            "Sweet flatbread with lentil filling",
+            "Special Maharashtrian festive sweet dish"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Petha",
+        "hints": [
+            "Translucent soft candy from Agra",
+            "Made from ash gourd vegetable"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Ladoo",
+        "hints": [
+            "Round shaped Indian sweet ball",
+            "Commonly distributed during many festivals"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Barfi",
+        "hints": [
+            "Milk based fudge dessert square",
+            "Often decorated with silver foil"
+        ]
+    },
+    {
+        "category": "food",
+        "phrase": "Gajak",
+        "hints": [
+            "Dry sweet made of sesame",
+            "Popular winter snack in India"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Mogambo khush hua",
+        "hints": [
+            "Famous villain expression of joy",
+            "Amrish Puri iconic movie line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Kitne aadmi the",
+        "hints": [
+            "Gabbar Singh asking about men",
+            "Famous line from Sholay movie"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Mere paas maa hai",
+        "hints": [
+            "Shashi Kapoor to Amitabh Bachchan",
+            "Deewaar movie iconic emotional line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Pushpa I hate tears",
+        "hints": [
+            "Rajesh Khanna to the heroine",
+            "Amar Prem movie classic line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Bade bade deshon mein",
+        "hints": [
+            "Raj to Simran advice line",
+            "Dilwale Dulhania movie famous line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Rishte mein toh hum",
+        "hints": [
+            "Amitabh Bachchan introducing his character",
+            "Shahenshah movie iconic opening line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Don ko pakadna mushkil",
+        "hints": [
+            "Amitabh Bachchan about his escape",
+            "Iconic underworld movie catchphrase line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Ek chutki sindoor ki",
+        "hints": [
+            "Deepika about a marriage sign",
+            "Om Shanti Om movie line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Picture abhi baaki hai",
+        "hints": [
+            "Shah Rukh Khan about ending",
+            "Om Shanti Om movie catchphrase"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "All is well",
+        "hints": [
+            "Amir Khan calming heart mantra",
+            "3 Idiots movie popular slogan"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Tareekh pe tareekh",
+        "hints": [
+            "Sunny Deol inside the court",
+            "Damini movie famous angry line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Dhai kilo ka haath",
+        "hints": [
+            "Sunny Deol about his strength",
+            "Damini movie powerful action line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Kutte kameene main tera",
+        "hints": [
+            "Dharmendra angry warning to villain",
+            "Classic Bollywood action hero line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Prem naam hai mera",
+        "hints": [
+            "Prem Chopra introducing himself line",
+            "Famous classic villain intro line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Sara shehar mujhe lio",
+        "hints": [
+            "Ajit iconic villain movie line",
+            "Known as the Lion character"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Thappad se darr nahi",
+        "hints": [
+            "Sonakshi Sinha to Salman Khan",
+            "Dabangg movie first part line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Hum jahan khade hote",
+        "hints": [
+            "Amitabh Bachchan about the queue",
+            "Kaalia movie famous arrogant line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Vijay Deenanath Chauhan",
+        "hints": [
+            "Full name introduction hero line",
+            "Agneepath movie main lead character"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "K k k k Kiran",
+        "hints": [
+            "Shah Rukh Khan stammering name",
+            "Darr movie obsessive lover line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Babumoshai zindagi badi",
+        "hints": [
+            "Rajesh Khanna about life length",
+            "Anand movie soulful classic line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Mhare chhore chhoriyon se",
+        "hints": [
+            "Amir Khan about his daughters",
+            "Dangal movie proud father line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "How is the josh",
+        "hints": [
+            "Vicky Kaushal to the soldiers",
+            "Uri movie popular army line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Apna time aayega",
+        "hints": [
+            "Ranveer Singh rap song slogan",
+            "Gully Boy movie famous anthem"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Tumse na ho payega",
+        "hints": [
+            "Tigmanshu Dhulia to his son",
+            "Gangs of Wasseypur famous line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Mera baap chor hai",
+        "hints": [
+            "Tattoo found on child arm",
+            "Deewaar movie tragic childhood line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Teja main hoon mark",
+        "hints": [
+            "Paresh Rawal about the mark",
+            "Andaz Apna Apna comedy line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Crime master Gogo naam",
+        "hints": [
+            "Shakti Kapoor intro movie line",
+            "Andaz Apna Apna funny character"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Aao kabhi haveli pe",
+        "hints": [
+            "Amrish Puri inviting a guest",
+            "Famous internet meme dialogue line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Utha le re baba",
+        "hints": [
+            "Paresh Rawal asking the god",
+            "Hera Pheri movie comedy line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Ye baburao ka style",
+        "hints": [
+            "Paresh Rawal about his ways",
+            "Hera Pheri movie funny line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Control Uday control",
+        "hints": [
+            "Nana Patekar to himself line",
+            "Welcome movie funny character line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Tension lene ka nahi",
+        "hints": [
+            "Sanjay Dutt advice to others",
+            "Munna Bhai MBBS movie slogan"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Jaadu ki jhappi",
+        "hints": [
+            "Sanjay Dutt about the hug",
+            "Munna Bhai movie healing line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Abba nahi maanenge",
+        "hints": [
+            "Madhavan about his strict father",
+            "3 Idiots career choice line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Jahan se dekhu wahan",
+        "hints": [
+            "Amir Khan about the world",
+            "PK movie alien observation line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Kabhi kabhi jeetne ke",
+        "hints": [
+            "Shah Rukh Khan about losing",
+            "Baazigar movie philosophical hero line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Ja Simran ja jee",
+        "hints": [
+            "Amrish Puri fatherly permission line",
+            "DDLJ movie iconic ending line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Parampara pratishtha anushasan",
+        "hints": [
+            "Amitabh Bachchan about school rules",
+            "Mohabbatein movie strict motto line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Filmein sirf teen cheezon",
+        "hints": [
+            "Vidya Balan about movie entertainment",
+            "The Dirty Picture movie line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Dosti ka ek usool",
+        "hints": [
+            "Salman Khan about true friendship",
+            "Maine Pyar Kiya movie line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Swagat nahi karoge hamara",
+        "hints": [
+            "Salman Khan hero entry line",
+            "Dabangg two movie intro line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Ek baar jo maine",
+        "hints": [
+            "Salman Khan about his commitment",
+            "Wanted movie famous hero line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Main apni favorite hoon",
+        "hints": [
+            "Kareena Kapoor about self love",
+            "Jab We Met movie line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Sattar minute hain tumhare",
+        "hints": [
+            "Shah Rukh Khan coaching speech",
+            "Chak De India movie line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Kaun kambakht bardaasht",
+        "hints": [
+            "Shah Rukh Khan drinking line",
+            "Devdas movie tragic hero line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Mere karan arjun aayenge",
+        "hints": [
+            "Rakhee about her two sons",
+            "Karan Arjun movie emotional line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Bhaag Dhanno aaj teri",
+        "hints": [
+            "Hema Malini to her horse",
+            "Sholay movie iconic chase line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Ab tera kya hoga",
+        "hints": [
+            "Gabbar Singh to his henchman",
+            "Sholay movie iconic question line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Jo darr gaya samjho",
+        "hints": [
+            "Gabbar Singh about fear factor",
+            "Sholay movie villainous line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Ata majhi satakli",
+        "hints": [
+            "Ajay Devgn angry cop line",
+            "Singham movie popular catchphrase line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Dua mein yaad rakhna",
+        "hints": [
+            "Ranbir Kapoor hero parting line",
+            "Ae Dil Hai Mushkil line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Main udna chahta hoon",
+        "hints": [
+            "Ranbir Kapoor about his dreams",
+            "Yeh Jawaani Hai Deewani line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Shaadi is dal chawal",
+        "hints": [
+            "Ranbir Kapoor about marriage food",
+            "Yeh Jawaani Hai Deewani line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Hamare desh mein sui",
+        "hints": [
+            "Varun Dhawan about small needle",
+            "Sui Dhaaga movie hero line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Sabka badla lega tera",
+        "hints": [
+            "Nawazuddin Siddiqui about revenge line",
+            "Gangs of Wasseypur movie line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Pyaar kiya toh darna",
+        "hints": [
+            "Madhubala about being brave love",
+            "Mughal E Azam movie line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Anarkali Salim ki kismet",
+        "hints": [
+            "Prithviraj Kapoor royal movie line",
+            "Mughal E Azam movie dialogue"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Balwant rai ke kutte",
+        "hints": [
+            "Sunny Deol insulting the villain",
+            "Ghayal movie famous action line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Zindagi mein teen cheezein",
+        "hints": [
+            "Sushant Singh Rajput about cricket",
+            "MS Dhoni movie hero line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Mahi maar raha hai",
+        "hints": [
+            "Comment about Dhoni power batting",
+            "MS Dhoni movie popular line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "O stree kal aana",
+        "hints": [
+            "Message written on house wall",
+            "Stree movie popular horror line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Darr ke aage jeet",
+        "hints": [
+            "Motivational action hero movie slogan",
+            "Commonly used action movie phrase"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Kshatriya ka dharm",
+        "hints": [
+            "Maratha warrior duty movie line",
+            "Tanhaji movie patriotic hero line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Sultan ko sirf Sultan",
+        "hints": [
+            "Salman Khan about defeating self",
+            "Sultan movie wrestling hero line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Hindustan zindabad tha",
+        "hints": [
+            "Sunny Deol shouting patriotic line",
+            "Gadar movie famous shouting line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Aapke paon dekhe bahut",
+        "hints": [
+            "Raaj Kumar about the feet",
+            "Pakeezah movie romantic hero line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Jaani ye chaaku hai",
+        "hints": [
+            "Raaj Kumar about the knife",
+            "Iconic movie unique voice line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Abhi hum zinda hain",
+        "hints": [
+            "Nana Patekar about still living",
+            "Welcome movie popular meme line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Aloo lelo kanda lelo",
+        "hints": [
+            "Nana Patekar selling some vegetables",
+            "Welcome movie funny character line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Aaj mere paas bungalow",
+        "hints": [
+            "Amitabh Bachchan listing his assets",
+            "Deewaar movie brothers confrontation line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Beta tumse na ho",
+        "hints": [
+            "Sarcastic advice about some failure",
+            "Famous Gangs of Wasseypur line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Main udna chahta hoon",
+        "hints": [
+            "Desire for travel and freedom",
+            "Yeh Jawaani Hai Deewani line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "I can talk English",
+        "hints": [
+            "Arrogance about speaking foreign language",
+            "Namak Halaal movie funny line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Mogambo bahut khush hua",
+        "hints": [
+            "Evil joy of the villain",
+            "Mr India movie popular line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Thappad se darr",
+        "hints": [
+            "Afraid of slap more than",
+            "Dabangg movie famous heroine line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Holi kab hai",
+        "hints": [
+            "Gabbar asking about the festival",
+            "Sholay movie iconic villain question"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Arre o sambha",
+        "hints": [
+            "Calling out the right hand",
+            "Sholay movie classic villain line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Zindagi ek safar",
+        "hints": [
+            "Life as a long journey",
+            "Andaz movie famous soulful line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Mere desh ki dharti",
+        "hints": [
+            "Earth of my great nation",
+            "Upkar movie iconic patriotic line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Don ka intezaar toh",
+        "hints": [
+            "Waiting for the underworld king",
+            "Iconic underworld film hero line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Pushpa jhukega nahi",
+        "hints": [
+            "Hero will not bow down",
+            "Pushpa movie famous action line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Party abhi baaki hai",
+        "hints": [
+            "Celebration is not over yet",
+            "Modern party song movie line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Ek macchar aadmi ko",
+        "hints": [
+            "One insect changes a man",
+            "Nana Patekar famous philosophical line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Asli hero woh",
+        "hints": [
+            "Definition of a real hero",
+            "Commonly used hero movie line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Tumhara naam kya hai",
+        "hints": [
+            "Asking for the base identity",
+            "Common opening question movie line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Khamosh",
+        "hints": [
+            "Shatrughan Sinha telling everyone quiet",
+            "Most iconic single word line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Tension lene ka",
+        "hints": [
+            "Not taking any mental stress",
+            "Munna Bhai movie hero advice"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Apni favorite hoon",
+        "hints": [
+            "Self love and high confidence",
+            "Jab We Met heroine line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Aaye ho meri zindagi",
+        "hints": [
+            "Welcome into my beautiful life",
+            "Raja Hindustani romantic hero line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Hindustan zindabad",
+        "hints": [
+            "Long live our great nation",
+            "Most common patriotic movie cry"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Mera baap chor",
+        "hints": [
+            "Father is a petty thief",
+            "Deewaar movie classic tragedy line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Picture abhi baaki",
+        "hints": [
+            "The story is not over",
+            "Om Shanti Om famous line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Kutte kameene",
+        "hints": [
+            "Angry insult to a villain",
+            "Dharmendra classic action movie line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Mere paas maa",
+        "hints": [
+            "Possessing the mother figure",
+            "Deewaar movie emotional brother line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Bade bade deshon",
+        "hints": [
+            "In big countries like these",
+            "DDLJ movie iconic romance line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Holi kab",
+        "hints": [
+            "When is the color festival",
+            "Gabbar Singh iconic sholay line"
+        ]
+    },
+    {
+        "category": "bollywood_dialogue",
+        "phrase": "Kitne aadmi",
+        "hints": [
+            "How many men were there",
+            "Gabbar Singh most famous line"
+        ]
+    }
+]
